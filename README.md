@@ -11,7 +11,7 @@ Assignment from 'ActionFit'
 ### 📥 APK File
 You can download the final deliverable from the link below:
 
-[Download APK](https://github.com/rrabbiitt/MatchBlocks/ActionFit-release.apk)
+[Download APK](https://github.com/rrabbiitt/MatchBlocks/blob/main/ActionFit-release.apk)
 
 ### References
 ▶️ Tween 사용법 전체:   
