@@ -9,5 +9,5 @@ https://docs.cocos.com/creator/3.8/manual/en/animation/tween/easing.html
 https://docs.cocos.com/creator/3.8/manual/en/animation/tween.html   
 ▶️ MDN Web Docs – Promise 사용법   
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise  
-
-
+▶️ Reduce PNG file size  
+https://tinypng.com/
