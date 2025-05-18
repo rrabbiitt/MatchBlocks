@@ -1,6 +1,6 @@
 # MatchBlocks
 Assignment from 'ActionFit'  
-"Play the game by extracting and opening **index.html** in browser."
+"Play the game by extracting and opening ***index.html*** in browser."
 
 
 ### References
