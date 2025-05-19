@@ -20,7 +20,7 @@ You can download the final deliverable from the link below:
 
 ### References
 ▶️ Tween , Easing 목록  
-https://docs.cocos.com/creator/3.8/manual/en/tween/tween-function.html?utm_source=chatgpt.com
+https://docs.cocos.com/creator/3.8/manual/en/tween/tween-function.html?utm_source=chatgpt.com  
 ▶️ MDN Web Docs – Promise 사용법   
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise  
 ▶️ Reduce PNG file size  
